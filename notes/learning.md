@@ -12,3 +12,5 @@ My Top 5 Learnings
 
 5\. Merging
 
+6\. Understanding Pull Requests
+
